@@ -1,0 +1,8 @@
+{
+  "name": "creativestyle/magesuite-performance",
+  "type": "metapackage",
+  "description": "MageSuite performance metapackage",
+  "require": {
+    "creativestyle/magesuite-performance-product": "^1.0.0"
+  }
+}
